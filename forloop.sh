@@ -2,5 +2,5 @@
 for file in `ls *.txt`
 do 
           echo $file
-          echo"remote"
+          echo"local"
 done
