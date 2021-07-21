@@ -3,5 +3,7 @@ for file in `ls *.txt`
 do 
           echo $file
           echo"local"
+
           echo"loop"
+          echo"remote"
 done
